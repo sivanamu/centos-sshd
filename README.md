@@ -48,3 +48,4 @@ Administrator. It usually boils down to these three things:
 [sudo] password for admin: 
 [root@58ca9baf1e75 ~]# 
 ```
+# centos-sshd
